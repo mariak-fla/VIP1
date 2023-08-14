@@ -1,6 +1,6 @@
 ![preview](./.github/preview.png)
 
-# VIP1: Planos Odontológicos
+# VIP1: Landing page
 >PT-BR
 
 Landing page para a VIP1. Desenvolvido para a agência [Mídia Ideal](https://www.linkedin.com/company/midiaideal/).
